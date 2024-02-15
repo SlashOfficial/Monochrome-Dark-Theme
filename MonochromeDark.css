@@ -1,0 +1,39 @@
+/**
+ * @name Monochrome Dark
+ * @description Monochrome Dark is a sleek, modern, dark theme based off a greyscale colour palette.
+ * @author kxcq
+ * @version 1.0.0
+ * @authorId 693003315608420373
+ * @source 
+ * @updateUrl 
+ */
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+:root {
+	--font: 'Inter', sans-serif;
+	--settingsicons: 1;
+
+	--accentcolor: 96, 124, 163;
+	--accentcolor2: 143, 159, 181;
+	--linkcolor: 255, 255, 255;
+	--mentioncolor: 96, 124, 163;
+	--successcolor: 228, 132, 150;
+	--warningcolor: 255, 255, 0;
+	--dangercolor: 200, 0, 0;
+
+	--textbrightest: 255, 255, 255;
+	--textbrighter: 222, 222, 222;
+	--textbright: 185, 185, 185;
+	--textdark: 140, 140, 140;
+	--textdarker: 115, 115, 115;
+	--textdarkest: 80, 80, 80;
+
+	--backgroundaccent: 70, 76, 82;
+	--backgroundprimary: 27, 29, 31;
+	--backgroundsecondary: 38, 40, 43;
+	--backgroundsecondaryalt: 38, 40, 43;
+	--backgroundtertiary: 38, 40, 43;
+	--backgroundfloating: 27, 29, 31;
+}
